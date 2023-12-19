@@ -63,7 +63,7 @@ section{
     margin: 20px;
 }
 
-@media all and (max-width: 767px){
+@media all and (max-width: 600px){
 
     .center{
         text-align: start;
@@ -103,7 +103,7 @@ section{
 
 }
 
-@media all and (min-width: 768px){
+@media all and (min-width: 601px){
     .center{
         text-align: center;
         padding: 40px;
